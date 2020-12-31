@@ -9,7 +9,7 @@ This project produces a neural network that classifies images of handwritten dig
 
 ### Installation
 To install this project, clone the repository onto your computing using git bash and the command:
-> git clone https://github.com/DavidOWade/MNIST-Neural-Network.git
+> git clone "https://github.com/DavidOWade/MNIST-Neural-Network.git"
 
 Using anaconda powershell, or any utility that can run Jupyter Notebook, navigate to the folder holding the cloned repository, and run the command: 
 > jupyter lab
