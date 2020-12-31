@@ -8,5 +8,8 @@ Networks "learn" by analyzing a dataset of training inputs, where each training 
 This project produces a neural network that classifies images of handwritten digits ranged from 0-9. These images are gathered from the MNIST database - a large set of images of handwritten digits commonly used for training neural networks like this one. This is my first attempt at building a neural network from scratch and I plan to continually update this project as I improve my code.
 
 ### Installation
-- To install this project, clone the repository onto your computing using git bash and the command "git clone https://github.com/DavidOWade/MNIST-Neural-Network.git"
-- Using anaconda powershell, or any utility that can run Jupyter Notebook, navigate to the folder holding the cloned repository, and run the command "jupyter lab"
+To install this project, clone the repository onto your computing using git bash and the command:
+> git clone https://github.com/DavidOWade/MNIST-Neural-Network.git
+
+Using anaconda powershell, or any utility that can run Jupyter Notebook, navigate to the folder holding the cloned repository, and run the command: 
+> jupyter lab
